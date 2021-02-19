@@ -1,5 +1,5 @@
 # ruby-ducks
-## Search Ducks in Google WebSite And Rest Assured Test Demo
+## Search Ducks in Google WebSite (UI Demo using Ruby Cucumber Selenium) And (API Test Demo using spec/faraday)
 
 By [Edward Gorantla] (mailto:cvofravi@gmail.com)
  
